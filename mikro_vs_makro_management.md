@@ -1,4 +1,6 @@
-# Mikromanagement a makromanagement jsou dva různé přístupy k řízení a vedení lidí a projektů v organizaci.
+# Mikromanagement a makromanagement
+
+## jsou dva různé přístupy k řízení a vedení lidí a projektů v organizaci
 
 ### Rozsah a úroveň detailu:
 **Mikromanagement:** Tento přístup se zaměřuje na extrémně detailní dohled nad pracovními procesy, často až na úroveň jednotlivých úkolů a rozhodnutí. Mikromanažeři mohou dávat zaměstnancům konkrétní pokyny a dokonce se snažit o řízení téměř každého aspektu práce.
